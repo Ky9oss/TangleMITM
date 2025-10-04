@@ -13,4 +13,5 @@
 > [!WARNING]
 > 🚧 (Alpha stage software) This program is in rapid development and may break or change frequently! 🚧
 
-My scripts for (mitmproxy)[https://github.com/mitmproxy/mitmproxy]
+My scripts for [mitmproxy](https://github.com/mitmproxy/mitmproxy)
+
