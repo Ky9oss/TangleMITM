@@ -21,3 +21,9 @@ cp ~/.mitmproxy/config.yaml ~/.mitmproxy/config.yaml.bak && cd ~/.mitmproxy/
 git init && git branch -M main && git remote add origin https://github.com/Ky9oss/TangleMITM.git && git fetch origin main && git checkout origin/main -- .
 ```
 
+
+# Bug
+
+- [ ] keys map error
+- [ ] stuck when exiting
+- [ ] error in WSL2
