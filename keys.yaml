@@ -1,11 +1,11 @@
-# -
-#   key: g
-#   ctx: ["global"]
-#   cmd: console.nav.start
-# -
-#   key: G
-#   ctx: ["global"]
-#   cmd: console.nav.end
+-
+  key: g
+  ctx: ["global"]
+  cmd: console.nav.start
+-
+  key: G
+  ctx: ["global"]
+  cmd: console.nav.end
 - 
   key: ctrl n
   ctx: ["flowview"]
@@ -26,16 +26,16 @@
   cmd: console.command cut.clip
   ctx: ["flowlist", "flowview"]
   help: Send cuts to clipboard
-# -
-#   key: ctrl l
-#   ctx: ["global"]
-#   cmd: console.panes.next
-#   help: Next
-# -
-#   key: ctrl h
-#   ctx: ["global"]
-#   cmd: console.panes.prev
-#   help: Preview
+-
+  key: ctrl l
+  ctx: ["global"]
+  cmd: console.panes.next
+  help: Next
+-
+  key: ctrl h
+  ctx: ["global"]
+  cmd: console.panes.prev
+  help: Preview
 
 
 
