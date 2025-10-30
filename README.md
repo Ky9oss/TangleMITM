@@ -16,25 +16,14 @@
 My addons in [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 
 # Install
+
 ```bash
 cp ~/.mitmproxy/config.yaml ~/.mitmproxy/config.yaml.bak && cd ~/.mitmproxy/
 git init  && git remote add origin https://github.com/Ky9oss/TangleMITM.git && git fetch origin main && git checkout origin/main -- . && git branch -M main
 ```
 
 # Update
+
 ```bash
 cd ~/.mitmproxy/ && git pull
 ```
-
-
-# Bug
-
-## TUI bugs
-- [ ] keys map error
-- [ ] `G` not switch to end
-
-## Core bugs
-- [ ] error in WSL2
-
-# Features
-- [ ] stuck when exiting
