@@ -1,4 +1,4 @@
-# Run this command in your project's root dir to debug uv project by Python3.14-PDB
+# Run this script from your project's root to debug a uv project with Python 3.14's pdb
 
 uv python pin 3.14
 Start-Process -FilePath "uv.exe" -ArgumentList "run mitmproxy" -PassThru | Out-Null
