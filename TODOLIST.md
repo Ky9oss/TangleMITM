@@ -1,18 +1,18 @@
 # Features(addons)
 
 - [ ] logs continuous integration
-- [ ] change editor
-- [ ] exit immediately
 - [ ] intruder
 - [ ] XXE payloads for different targets:
     - [ ] redirect
 - [ ] LFI lists continuous integration
 - [ ] RCE
 - [ ] XSS
-
+- [ ] exit immediately
 
 # Features(mitmproxy)
-- scroll bar
+
+- [ ] Optimize the EDIT function to speed up creating and editing for temp file
+- [ ] scroll bar
 
 # Bug(mitmproxy)
 

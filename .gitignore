@@ -1,3 +1,4 @@
 mitmproxy-*
 command_history
 *.bak
+temp/
