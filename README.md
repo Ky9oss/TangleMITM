@@ -33,10 +33,3 @@ git init  && git remote add origin https://github.com/Ky9oss/TangleMITM.git && g
 ```bash
 cd ~/.mitmproxy/ && git pull
 ```
-
-# Debug
-
-```powershell
-# process chanins: uv.exe -> mitmproxy.exe -> python.exe (PID:$1) -> python.exe (PID:$2)
-
-```
